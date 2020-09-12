@@ -1,0 +1,8 @@
+.btn-secondary {
+  width: 60px;
+}
+
+.btn-secondary::after {
+  left: 5px;
+  top: 65% !important;
+}

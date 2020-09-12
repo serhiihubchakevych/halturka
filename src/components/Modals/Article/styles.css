@@ -1,0 +1,13 @@
+.border-3 {
+  border: 3px solid;
+}
+
+.y-centered {
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.modal-body-container {
+  max-height: 80vh;
+  overflow: overlay;
+}
